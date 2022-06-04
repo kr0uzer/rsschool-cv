@@ -15,6 +15,7 @@ My goal for this year is to learn how to work with the frontend. I want to learn
 * HyperText Markup Language
 * Cascading Style Sheets
 * JavaScript
+* Git & GitHub
 ## Code Example
 ```
 const solution = (str) => {
