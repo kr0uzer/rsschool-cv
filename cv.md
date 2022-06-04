@@ -1,6 +1,8 @@
 # Denis Kotelnitskiy
 ## Junior Frontend Developer
 ## Contacts
+* **Location:** Konotop, Sumy Oblast, Ukraine
+
 * **Phone number:** +380977187891
 
 * **Email:** deniskotelnitskiy@gmail.com
